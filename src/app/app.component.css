@@ -1,0 +1,43 @@
+
+header{
+    background-color: #37bbed;
+
+    }
+
+   
+    
+    
+    h1{
+        align-content: center;
+        text-align: center;
+        margin-left: 20px;
+        font-size: 1.5cm;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+       
+    }
+    .social{
+        text-align:right;
+        background: 200px; 
+        height: 30px;
+        padding-top: 40px;
+        padding-bottom: 01px;
+        padding-right: 70px;
+        z-index: auto;
+    }
+    
+    .iconos{
+        display: inline-block;
+        margin-right: 10px;
+        z-index: auto; 
+    }
+    .contenedor{
+        align-content: space-around;
+        
+    }
+    .container-md{
+        align-content: space-around;
+    }
+
+    .list-group a {
+        float: left;
+    }
